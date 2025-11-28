@@ -1,0 +1,6 @@
+--- UNITY SETUP PROOF ---
+Unity Version: 6000.0.62f1
+OS: Windows 11  (10.0.26200) 64bit
+Device: PATRICK
+GPU: NVIDIA GeForce GTX 1050
+-------------------------
