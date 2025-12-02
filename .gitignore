@@ -97,3 +97,10 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+/My project/Library/Artifacts
+/My project/Library/Bee
+/My project/Library/BurstCache
+/My project/Library/PackageCache
+/My project/Library/ScriptAssemblies
+/My project/Library/ShaderCache
+/My project/Library/Search
